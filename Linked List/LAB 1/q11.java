@@ -6,7 +6,7 @@ class q11 {
      System.out.println("false");
      System.out.println("9<-97");
      System.out.println("9");
-     System.out.println("9");
+     System.out.println("9"); 
      
   }
 }
