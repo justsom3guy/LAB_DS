@@ -8,5 +8,6 @@ class q1 {
      System.out.println("3");
      System.out.println("45->44->56->28->54->91");
      System.out.println("44->56->28->54->91");
+    
   }
 }
